@@ -1,7 +1,7 @@
 # MongoDB Test Task
 
 
-### Install vim
+### Install text editor
 ```
 apt install nano
 ```
